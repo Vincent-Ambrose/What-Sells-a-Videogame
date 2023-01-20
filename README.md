@@ -21,8 +21,8 @@ ________________________________
 
 *** CONTENTS ***
 
-Intro
-Stage 1. Data loading
+* Intro
+*Stage 1. Data loading
     1.1 Exploring initial data
 Stage 2. Data preparation
     2.1 Columns renaming

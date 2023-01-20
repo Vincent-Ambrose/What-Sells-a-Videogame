@@ -23,27 +23,27 @@ ________________________________
 
 * Intro
 * Stage 1. Data loading
-    1.1 Exploring initial data
-Stage 2. Data preparation
-    2.1 Columns renaming
-    2.2 Column 'name'
-    2.3 Column 'year_of_release'
-    2.4 Column 'critic_score'
-    2.5 Column 'user_score'
-    2.5 Column 'rating'
-    2.6 Column 'tot_sales'
-Stage 3. Data analysis
-    3.1 Released videogames per year
-    3.2 How sales vary from one platform to another
-    3.3 Which period is more profitable for videogames
-    3.4 What are the potentially profitable platforms
-    3.5 Studying and working the outliers
-    3.6 How reviews affect sales of console
-    3.7 Comparing sales of the same games on different platforms
-    3.8 Most profitable genres
-Stage 4. Create a user profile for each region
-    4.1 North America
-        4.1.1 NA videogames consoles
+   * 1.1 Exploring initial data
+* Stage 2. Data preparation
+   * 2.1 Columns renaming
+   * 2.2 Column 'name'
+   * 2.3 Column 'year_of_release'
+   * 2.4 Column 'critic_score'
+   * 2.5 Column 'user_score'
+   * 2.5 Column 'rating'
+   * 2.6 Column 'tot_sales'
+* Stage 3. Data analysis
+   * 3.1 Released videogames per year
+   * 3.2 How sales vary from one platform to another
+   * 3.3 Which period is more profitable for videogames
+   * 3.4 What are the potentially profitable platforms
+   * 3.5 Studying and working the outliers
+   * 3.6 How reviews affect sales of console
+   * 3.7 Comparing sales of the same games on different platforms
+   * 3.8 Most profitable genres
+* Stage 4. Create a user profile for each region
+   * 4.1 North America
+     - 4.1.1 NA videogames consoles
         4.1.2 NA videogames genre
         4.1.3 NA videogame rating
         4.1.4 Conclusion NA market

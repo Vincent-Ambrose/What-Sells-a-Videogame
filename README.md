@@ -43,25 +43,25 @@ ________________________________
    * 3.8 Most profitable genres
 * Stage 4. Create a user profile for each region
    * 4.1 North America
-     - 4.1.1 NA videogames consoles
-        4.1.2 NA videogames genre
-        4.1.3 NA videogame rating
-        4.1.4 Conclusion NA market
-    4.2 European Union
-        4.2.1 EU videogames consoles
-        4.2.2 EU videogames genre
-        4.2.3 EU videogame rating
-        4.2.4 Conclusion EU market
-    4.3 Japan
-        4.3.1 JP videogames consoles
+     * 4.1.1 NA videogames consoles
+     * 4.1.2 NA videogames genre
+     * 4.1.3 NA videogame rating
+     * 4.1.4 Conclusion NA market
+   * 4.2 European Union
+     * 4.2.1 EU videogames consoles
+     * 4.2.2 EU videogames genre
+     * 4.2.3 EU videogame rating
+     * 4.2.4 Conclusion EU market
+   * 4.3 Japan
+     * 4.3.1 JP videogames consoles
         4.3.2 JP videogames genre
         4.3.3 JP videogame rating
         4.3.4 Conclusion JP market
-    4.4 Markets comparison
-Stage 5. Hypotesis testing
-    5.1 Test: equality of the averages user_score for Xbox One and PC
-    5.2 Test: inequality of the averages user_score for the Action and Sport games
-General conclusion
+   * 4.4 Markets comparison
+* Stage 5. Hypotesis testing
+   * 5.1 Test: equality of the averages user_score for Xbox One and PC
+   * 5.2 Test: inequality of the averages user_score for the Action and Sport games
+* General conclusion
  
  
  

@@ -54,9 +54,9 @@ ________________________________
      * 4.2.4 Conclusion EU market
    * 4.3 Japan
      * 4.3.1 JP videogames consoles
-        4.3.2 JP videogames genre
-        4.3.3 JP videogame rating
-        4.3.4 Conclusion JP market
+     * 4.3.2 JP videogames genre
+     * 4.3.3 JP videogame rating
+     * 4.3.4 Conclusion JP market
    * 4.4 Markets comparison
 * Stage 5. Hypotesis testing
    * 5.1 Test: equality of the averages user_score for Xbox One and PC
